@@ -17,3 +17,12 @@ Este proyecto configura un entorno de desarrollo con PHP, Gulp para tareas de co
 1. Instalar dependencias:
    ```bash
    npm install
+
+
+-- instalar compilador sass
+
+npm install sass --save-dev
+
+npm install gulp-concat --save-dev
+
+npm install gulp-sourcemaps --save-dev
